@@ -1,0 +1,1 @@
+java -jar group15.jar param.txt

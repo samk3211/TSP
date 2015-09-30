@@ -1,0 +1,16 @@
+PARAMS
+DataFileDir ./Data/
+PopulationSize -1 		// with -1 the value is automatically defined   
+MaxEvolutions -1 		// with -1 the value is automatically defined
+MutationRate 0.008
+TotIterations 10
+ENDPARAMS
+INSTANCES
+berlin52.tsp
+eil51.tsp
+eil76.tsp
+pr152.tsp
+rat195.tsp
+pr1002.tsp
+ENDINSTANCES
+EOF
